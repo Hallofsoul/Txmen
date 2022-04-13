@@ -5,10 +5,10 @@
  monayawal: 1000,
  limitawal: 15,
  info: {
-   owner: ["6287708357324@s.whatsapp.net","6283110928302@s.whatsapp.net"],
-   ownerName: "©rifza.p.p",
+   owner: ["6289529337047@s.whatsapp.net","6283110928302@s.whatsapp.net"],
+   ownerName: "©Venn",
    botName: "Thunder-XM_Legacy",
-   igowner: "https://www.instagram.com/rifza.p.p",
+   igowner: "https://www.instagram.com/zero",
    version: "^4.0.1"
    },
  rpg: {
